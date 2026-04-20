@@ -7,9 +7,9 @@
 }
 .header {
   display: flex;
-  background-color: pink;
+  background-color: lightgray;
   justify-content: center;
-  gap: 500px;
+  gap: 300px;
 }
 .heading {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -20,7 +20,7 @@ nav{
     gap: 20px;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
     text-align: center;
-    background-color: pink;
+    background-color: lightgray;
     justify-content: center;
     list-style: none;
     text-decoration: none;
@@ -30,4 +30,14 @@ nav a {
     text-decoration: none;
     color: black;
     margin-right: 40px;
+}
+nav a:hover {
+    color: white;
+    text-decoration: underline;
+}
+.body{color: black;
+background-color: thistle;}
+.main{
+    width: 400px;height: 400px;
+    gap: 50px;
 }
