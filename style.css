@@ -5,13 +5,13 @@
   size: 30px;
   margin-left: 0px;
 }
-.header {
+header {
   display: flex;
   background-color: lightgray;
   justify-content: center;
   gap: 300px;
 }
-.heading {
+heading {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: large;
 }
@@ -32,10 +32,10 @@ nav a {
     margin-right: 40px;
 }
 nav a:hover {
-    color: white;
+    color: black;
     text-decoration: underline;
 }
-.body{color: black;
+body{color: black;
 background-color: thistle;}
 .main{
     width: 400px;height: 400px;
