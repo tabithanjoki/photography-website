@@ -1,3 +1,33 @@
-.logo{width: 100px;height: 100px;border-radius: 50%;size:30px ;margin-left: 0px;}
-.header{display: flex;background-color: pink;justify-content: center;gap: 500px;}
-.heading{ }
+.logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  size: 30px;
+  margin-left: 0px;
+}
+.header {
+  display: flex;
+  background-color: pink;
+  justify-content: center;
+  gap: 500px;
+}
+.heading {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: large;
+}
+nav{
+    display: flex;
+    gap: 20px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    text-align: center;
+    background-color: pink;
+    justify-content: center;
+    list-style: none;
+    text-decoration: none;
+    padding: 50px 0;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    margin-right: 40px;
+}
