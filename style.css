@@ -37,7 +37,19 @@ nav a:hover {
 }
 body{color: black;
 background-color: thistle;}
-.main{
+.main1{
     width: 400px;height: 400px;
-    gap: 50px;
+    gap: 100px;
+    margin-left: 100px;
 }
+.main2{
+    width: 400px;height: 400px;
+    gap: 100px;
+    margin-left: 100px;
+}
+.main3{
+    width: 400px;height: 400px;
+    gap: 100px;
+    margin-left: 300px;
+}
+
