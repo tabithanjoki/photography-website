@@ -7,7 +7,7 @@
 }
 header {
   display: flex;
-  background-color: lightgray;
+  background-color: white;
   justify-content: center;
   gap: 300px;
 }
@@ -16,7 +16,7 @@ heading {
   font-size: large;
 }
 nav{
-     background-color:lightgray; 
+     background-color:white; 
     text-align: center;
     padding: 12 px 0;
 
@@ -53,5 +53,5 @@ background-color: thistle;}
     margin-left: 300px;
 }
 .bio{width: 150px;height: 150px;border-radius: 50%;margin-left: 100px;}
-footer{ display:flex;background-color:lightgray;padding:0;text-align:center;margin:0 auto;justify-content:center}
+footer{ display:flex;background-color:white;padding:0;text-align:center;margin:0 auto;justify-content:center}
 
